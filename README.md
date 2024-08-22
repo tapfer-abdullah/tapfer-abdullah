@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapfer-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="tapfer-abdullah" /> </p>
 
-- 🔭 I’m currently working on [Medicare Point](https://medicare-point-1bbbf.web.app/)
-
-- 🌱 I’m currently learning **Redux and NextJS**
+- 🌱 I’m currently learning **Redux and Flatter**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-of-abdullah.netlify.app/](https://portfolio-of-abdullah.netlify.app/)
 
