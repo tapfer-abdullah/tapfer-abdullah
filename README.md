@@ -1,17 +1,17 @@
-[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://portfolio-of-abdullah.netlify.app/)
+[![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)](https://tapfer-abdullah.vercel.app/)
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
-<h3 align="center">I am a MERN stack web developer. Passionate about delivering modern and scalable full-stack solutions</h3>
+<h3 align="center">I am a Full-Stack web developer. Passionate about delivering modern and scalable full-stack solutions</h3>
 <img align="right" alt="Codding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapfer-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="tapfer-abdullah" /> </p>
 
-- 🌱 I’m currently learning **Redux and Flatter**
+- 🌱 I’m currently working as a full-stack developer at **[Avaton](https://avaton.io/)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-of-abdullah.netlify.app/](https://portfolio-of-abdullah.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfoli Website](https://tapfer-abdullah.vercel.app/)
 
-- 💬 Ask me about **MERN, React**
+- 💬 Ask me about **MERN, React.js, Next.js, Express.js, etc **
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZWBCMpiOZhn6ezh196Yx3OT3ro5B80br/view?usp=drive_link](https://drive.google.com/file/d/1ZWBCMpiOZhn6ezh196Yx3OT3ro5B80br/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZWBCMpiOZhn6ezh196Yx3OT3ro5B80br/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapfer-abdullah&show_icons=true&locale=en&layout=compact" alt="tapfer-abdullah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapfer-abdullah&" alt="tapfer-abdullah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapfer-abdullah" alt="tapfer-abdullah" /></p>
